@@ -61,7 +61,7 @@
     "iced-runtime": "1.0.3",
     "immutable": "3.8.1",
     "jsonfile": "2.4.0",
-    "lodash": "4.17.4",
+    "lodash": "4.17.21",
     "material-ui": "0.15.4",
     "menubar": "5.1.0",
     "mkdirp": "0.5.1",
